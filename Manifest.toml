@@ -2,7 +2,7 @@
 
 julia_version = "1.10.2"
 manifest_format = "2.0"
-project_hash = "484afafc438aefcea900e1de8d19a3881c5e8fc5"
+project_hash = "5db343666bea5b217222b2e459c384948ccece63"
 
 [[deps.ASEconvert]]
 deps = ["AtomsBase", "AtomsCalculators", "CondaPkg", "PeriodicTable", "PythonCall", "Unitful", "UnitfulAtomic"]
